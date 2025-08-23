@@ -64,8 +64,8 @@ To build an entire crypto knowledge library, it takes more than a single platfor
   />
 </p>
 
-<!-- GitHub Streak Stats -->
 <p align="center">
+  <!-- GitHub Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=cryptowithshashi&theme=tokyonight&hide_border=false" 
     alt="GitHub Streak of cryptowithshashi" 
