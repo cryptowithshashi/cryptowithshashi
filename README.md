@@ -46,12 +46,32 @@ To build an entire crypto knowledge library, it takes more than a single platfor
   <br clear="both"/>
 </p>
 
+## 📊 GitHub Stats  
 
-## 📊 GitHub Stats
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=cryptowithshashi&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats of cryptowithshashi" 
+    height="160" 
+  />
+  
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptowithshashi&layout=compact&theme=tokyonight" 
+    alt="Top Languages used by cryptowithshashi" 
+    height="160" 
+  />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptowithshashi&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptowithshashi&layout=compact&theme=gruvbox)
-
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=cryptowithshashi&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak of cryptowithshashi" 
+    height="180" 
+  />
+</p>
 
 ## What I'm Currently Working On  
 
