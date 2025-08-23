@@ -48,15 +48,17 @@ To build an entire crypto knowledge library, it takes more than a single platfor
 
 ## 📊 GitHub Stats  
 
+<!-- GitHub Stats Card -->
 <p align="center">
-  <!-- GitHub Stats Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=cryptowithshashi&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats of cryptowithshashi" 
     height="160" 
   />
-  
-  <!-- Top Languages Card -->
+</p>
+
+<!-- Top Languages Card -->
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptowithshashi&layout=compact&theme=tokyonight" 
     alt="Top Languages used by cryptowithshashi" 
@@ -64,14 +66,15 @@ To build an entire crypto knowledge library, it takes more than a single platfor
   />
 </p>
 
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <!-- GitHub Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=cryptowithshashi&theme=tokyonight&hide_border=false" 
     alt="GitHub Streak of cryptowithshashi" 
     height="180" 
   />
 </p>
+
 
 ## What I'm Currently Working On  
 
