@@ -53,6 +53,14 @@ To build an entire crypto knowledge library, it takes more than a single platfor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptowithshashi&layout=compact&theme=gruvbox)
 
 
+## What I'm Currently Working On  
+
+| Project ⚙️ | Description 📝 | Last Commit 📅 | Stars ⭐ |
+| --- | --- | --- | --- |
+| [Crypto Library](https://github.com/your-username/crypto-library) | A → Z curated library of high-quality resources about blockchain, cryptocurrencies, cryptography, crypto security, tooling, research papers, and hands-on labs. | ![GitHub last commit](https://img.shields.io/github/last-commit/your-username/crypto-library) | ![GitHub Repo stars](https://img.shields.io/github/stars/your-username/crypto-library) |
+
+
+
 ## 🫶 Support
 > If you found any of our repo helpful or it added value to your work, consider leaving a small support - and if not, a simple ⭐ on the repo means a lot too ❤️
 
