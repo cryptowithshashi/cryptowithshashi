@@ -57,7 +57,7 @@ To build an entire crypto knowledge library, it takes more than a single platfor
 
 | Project ⚙️ | Description 📝 | Last Commit 📅 | Stars ⭐ |
 | --- | --- | --- | --- |
-| [Crypto Library](https://github.com/your-username/crypto-library) | A → Z curated library of high-quality resources about blockchain, cryptocurrencies, cryptography, crypto security, tooling, research papers, and hands-on labs. | ![GitHub last commit](https://img.shields.io/github/last-commit/your-username/crypto-library) | ![GitHub Repo stars](https://img.shields.io/github/stars/your-username/crypto-library) |
+| [Crypto Library](https://github.com/cryptowithshashi/crypto-library) | A → Z curated library of high-quality resources about blockchain, cryptocurrencies, cryptography, crypto security, tooling, research papers, and hands-on labs. | ![GitHub last commit](https://img.shields.io/github/last-commit/cryptowithshashi/crypto-library) | ![GitHub Repo stars](https://img.shields.io/github/stars/cryptowithshashi/crypto-library) |
 
 
 
