@@ -85,13 +85,12 @@ To build an entire crypto knowledge library, it takes more than a single platfor
 
 ## 🫶 Support
 > If you found any of our repo helpful or it added value to your work, consider leaving a small support - and if not, a simple ⭐ on the repo means a lot too ❤️
+> Right now only ETH & BASE networks are accepted in upcoming time more networks will be added
 
 | Blockchain | Address |
 |--------------|-----------|
-| ![EVM](https://img.shields.io/badge/EVM-3C3C3D?logo=ethereum&logoColor=white) | `0xe` |
-| ![TON](https://img.shields.io/badge/TON-0098EA?logo=ton&logoColor=white) | `UQBEB` |
-| ![SOL](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white) | `E1eSunf` |
-| ![SUI](https://img.shields.io/badge/SUI-6FBCF0?logo=sui&logoColor=white) | `0xa03a04cf3347` |
+| ![EVM](https://img.shields.io/badge/EVM-3C3C3D?logo=ethereum&logoColor=white) | `0x7862043A08163631642586db6C67BD3918578b72` |
+| ![BASE]([![Base](https://img.shields.io/badge/Network-Base-0052FF?logo=base&logoColor=white)](https://base.org) | `0x7862043A08163631642586db6C67BD3918578b72` |
 
 ---
 
