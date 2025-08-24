@@ -90,7 +90,7 @@ To build an entire crypto knowledge library, it takes more than a single platfor
 | Blockchain | Address |
 |--------------|-----------|
 | ![EVM](https://img.shields.io/badge/EVM-3C3C3D?logo=ethereum&logoColor=white) | `0x7862043A08163631642586db6C67BD3918578b72` |
-| ![BASE]([![Base](https://img.shields.io/badge/Network-Base-0052FF?logo=base&logoColor=white)](https://base.org) | `0x7862043A08163631642586db6C67BD3918578b72` |
+| ![Base](https://img.shields.io/badge/Network-Base-0052FF?logo=base&logoColor=white)](https://base.org) | `0x7862043A08163631642586db6C67BD3918578b72` |
 
 ---
 
